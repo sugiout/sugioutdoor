@@ -10,9 +10,7 @@ margin-right: 0px!important;
 }
 
 /*--- Fix for Fixed Navbar jumping on scroll --*/
-.fixed-top  {
- -webkit-backface-visibility: hidden;
-}
+
 
 /*--- Fixed Landing Page Section --*/
 .landing {
